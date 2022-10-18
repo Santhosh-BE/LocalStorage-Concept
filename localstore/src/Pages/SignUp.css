@@ -1,0 +1,13 @@
+input{
+    height: 30px;
+    width:25%;
+    margin-bottom: 15px;
+}
+button{
+    height: 30px;
+    width:20%;
+    margin-bottom: 15px;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 15px;
+}
